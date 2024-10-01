@@ -78,7 +78,7 @@ class MyApp extends StatelessWidget {
     Widget textSection = Container(
       padding: const EdgeInsets.all(32),
       child: const Text(
-        'Pantai Tanjung Kelayang merupakan salah satu pantai yang terletak di Kepulauan Bangka Belitung. Lokasinya berada di Kecamatan Sijuk dan berjarak sekitar 27 kilometer dari Tanjung Pandan[1] yang merupakan ibu kota Kabupaten Belitung.',
+        'Gunung Bromo atau dalam bahasa Tengger dieja "Brama", juga disebut Kaldera Tengger, adalah sebuah gunung berapi aktif di Jawa Timur, Indonesia. Gunung ini memiliki ketinggian 2.614 meter di atas permukaan laut dan berada dalam empat wilayah kabupaten, yakni Kabupaten Probolinggo, Kabupaten Pasuruan, Kabupaten Lumajang, dan Kabupaten Malang. Gunung Bromo terkenal sebagai objek wisata utama di Jawa Timur. Sebagai sebuah objek wisata, Bromo menjadi menarik karena statusnya sebagai gunung berapi yang masih aktif.',
         softWrap: true,
       ),
     );
